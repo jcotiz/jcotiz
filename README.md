@@ -1,4 +1,4 @@
-![Banner](https://i.pinimg.com/originals/bb/5e/47/bb5e47498772c0628f6dc7f26a6af28c.gif)
+![Banner](https://i.redd.it/bpxxqqvps4h91.gif)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Flutter;Astro;JavaScript;Tailwind;HTML;CSS;Firebase;Netlify;TypeScript;NPM)](https://git.io/typing-svg)
 
