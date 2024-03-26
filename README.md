@@ -12,8 +12,7 @@
 
 <br></br>
 <br></br>
-<br></br>
-<br></br>
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jonatan-cotiz-6a127a258/) <img src="https://camo.githubusercontent.com/0b51017460eac5f453621c18739f59393b5fd203812b20508718188fc1510bd5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f576562736974652d3030303030303f6c6f676f3d436f646570656e266c6f676f436f6c6f723d7768697465" alt="Personal Website" data-canonical-src="https://img.shields.io/badge/Website-000000?logo=Codepen&amp;logoColor=white" style="max-width: 100%;">
