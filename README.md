@@ -8,7 +8,7 @@
 <img align="right" alt="Coding" width="450" height="450" src="https://68.media.tumblr.com/b6231b4d5e3be51d0a8b302f29e628ae/tumblr_om3zookB751rnbw6mo2_r1_540.gif">
 
 # 💫 About Me:
- 🔭 I’m currently working on Flutter Projects<br><br>🌱 I’m currently learning Astro, ML and NodeJS<br><br>💬 Ask me about Flutter and Astro<br><br>📫 How to reach me jonatancotiz40@gmail.com<br><br>⚡ About me Flutter application developer with 2 years of experience<br><br>
+ 🔭 𝕀’𝕞 𝕔𝕦𝕣𝕣𝕖𝕟𝕥𝕝𝕪 𝕨𝕠𝕣𝕜𝕚𝕟𝕘 𝕠𝕟 𝔽𝕝𝕦𝕥𝕥𝕖𝕣 ℙ𝕣𝕠𝕛𝕖𝕔𝕥𝕤<br><br>🌱 I’m currently learning Astro, ML and NodeJS<br><br>💬 Ask me about Flutter and Astro<br><br>📫 How to reach me jonatancotiz40@gmail.com<br><br>⚡ About me Flutter application developer with 2 years of experience<br><br>
 
 <br></br>
 <br></br>
