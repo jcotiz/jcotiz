@@ -1,3 +1,9 @@
+<p align="left"> <img src="https://i.pinimg.com/originals/bb/5e/47/bb5e47498772c0628f6dc7f26a6af28c.gif/> </p>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Flutter;Astro;JavaScript;Tailwind;HTML;CSS;Firebase;Netlify;TypeScript;NPM)](https://git.io/typing-svg)
+
+<img align="right" alt="Coding" width="550" src="https://i.pinimg.com/originals/bb/5e/47/bb5e47498772c0628f6dc7f26a6af28c.gif">
+
 # 💫 About Me:
  🔭 I’m currently working on Flutter Projects<br><br>🌱 I’m currently learning Astro, ML and NodeJS<br><br>💬 Ask me about Flutter and Astro<br><br>📫 How to reach me jonatancotiz40@gmail.com<br><br>⚡ About me Flutter application developer with 2 years of experience<br><br>
 
