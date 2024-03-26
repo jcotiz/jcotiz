@@ -1,5 +1,5 @@
 <div class="banner-container">
-  <img src="https://i.pinimg.com/originals/bb/5e/47/bb5e47498772c0628f6dc7f26a6af28c.gif" alt="Banner">
+  <img src="https://i.pinimg.com/originals/bb/5e/47/bb5e47498772c0628f6dc7f26a6af28c.gif" alt="Banner" width ="800">
 </div>
 
 
