@@ -5,7 +5,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Flutter;Astro;JavaScript;Tailwind;HTML;CSS;Firebase;Netlify;TypeScript;NPM)](https://git.io/typing-svg)
 
-<img align="right" alt="Coding" width="550" height="450" src="https://68.media.tumblr.com/b6231b4d5e3be51d0a8b302f29e628ae/tumblr_om3zookB751rnbw6mo2_r1_540.gif">
+<img align="right" alt="Coding" width="450" height="450" src="https://68.media.tumblr.com/b6231b4d5e3be51d0a8b302f29e628ae/tumblr_om3zookB751rnbw6mo2_r1_540.gif">
 
 # 💫 About Me:
  🔭 I’m currently working on Flutter Projects<br><br>🌱 I’m currently learning Astro, ML and NodeJS<br><br>💬 Ask me about Flutter and Astro<br><br>📫 How to reach me jonatancotiz40@gmail.com<br><br>⚡ About me Flutter application developer with 2 years of experience<br><br>
